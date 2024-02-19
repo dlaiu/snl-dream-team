@@ -1,0 +1,912 @@
+ratings,votes,sid,hosts,date_datetime,epid
+7.4,543,1, Saturday Night Live: George Carlin/Billy Preston/Janis Ian,1975-10-11,19751011
+6.2,354,1, Paul Simon/Randy Newman/Phoebe Snow,1975-10-18,19751018
+6.9,303,1, Rob Reiner,1975-10-25,19751025
+7.0,281,1, Candice Bergen/Esther Phillips,1975-11-08,19751108
+6.5,245,1," Robert Klein/ABBA, Loudon Wainwright III",1975-11-15,19751115
+6.9,240,1, Lily Tomlin,1975-11-22,19751122
+8.3,351,1, Richard Pryor/Gil Scott-Heron,1975-12-13,19751213
+7.0,220,1, Candice Bergen/Martha Reeves/The Stylistics,1975-12-20,19751220
+7.0,192,1, Elliott Gould/Anne Murray,1976-01-10,19760110
+7.6,196,1," Buck Henry/Bill Withers, Toni Basil",1976-01-17,19760117
+7.3,188,1, Peter Cook & Dudley Moore/Neil Sedaka,1976-01-24,19760124
+6.4,171,1, Dick Cavett/Jimmy Cliff,1976-01-31,19760131
+6.7,149,1, Kris Kristofferson/Rita Coolidge,1976-07-31,19760731
+7.0,182,1," Desi Arnaz/Desi Arnaz, Jr.",1976-02-21,19760221
+6.9,172,1, Peter Boyle/Al Jarreau,1976-02-14,19760214
+7.6,153,1," Elliott Gould/Leon Redbone, Harlan Collins & Joyce Everson",1976-05-29,19760529
+7.2,154,1, Buck Henry/Gordon Lightfoot,1976-05-22,19760522
+6.5,157,1, Dyan Cannon/Leon & Mary Russell,1976-05-15,19760515
+5.2,157,1, Louise Lasser/Preservation Hall Jazz Band,1976-07-24,19760724
+6.8,169,1," Raquel Welch/Phoebe Snow, John Sebastian",1976-04-24,19760424
+7.0,168,1, Ron Nessen/Patti Smith Group,1976-04-17,19760417
+7.1,178,1, Anthony Perkins/Betty Carter,1976-03-13,19760313
+7.3,160,1, Jill Clayburgh/Leon Redbone/The Singing Idlers,1976-02-28,19760228
+7.6,192,1, Madeline Kahn/Carly Simon,1976-05-08,19760508
+7.3,143,2, Buck Henry/The Band,1976-10-30,19761030
+7.0,139,2, Norman Lear/Boz Scaggs,1976-09-25,19760925
+6.9,126,2, Ruth Gordon/Chuck Berry,1977-01-22,19770122
+7.0,124,2, Jack Burns/Santana,1977-03-26,19770326
+7.1,127,2, Broderick Crawford/Levon Helm/Dr. John/The Meters,1977-03-19,19770319
+7.0,139,2, Sissy Spacek/Richard Baskin,1977-03-12,19770312
+7.8,152,2, Steve Martin/The Kinks,1977-02-26,19770226
+6.3,97,2, Live from Mardi Gras,1977-02-20,19770220
+7.0,153,2, Lily Tomlin/James Taylor,1976-09-18,19760918
+7.7,161,2, Eric Idle/Joe Cocker/Stuff,1976-10-02,19761002
+7.5,176,2, Paul Simon/George Harrison,1976-11-20,19761120
+7.4,147,2, Steve Martin/Kinky Friedman,1976-10-23,19761023
+6.6,123,2," Fran Tarkenton/Leo Sayer, Donnie Harper and the Voices of Tomorrow",1977-01-29,19770129
+6.7,123,2, Dick Cavett/Ry Cooder,1976-11-13,19761113
+6.6,142,2, Jodie Foster/Brian Wilson,1976-11-27,19761127
+7.8,146,2, Candice Bergen/Frank Zappa,1976-12-11,19761211
+6.4,124,2," Julian Bond/Tom Waits, Brick",1977-04-09,19770409
+6.9,120,2, Elliott Gould/Kate & Anna McGarrigle/Roslyn Kind,1977-04-16,19770416
+7.4,127,2, Eric Idle/Neil Innes,1977-04-23,19770423
+7.5,120,2, Buck Henry/Jennifer Warnes/Kenny Vance,1977-05-21,19770521
+6.3,141,2, Karen Black/John Prine,1976-10-16,19761016
+7.0,123,2, Shelley Duvall/Joan Armatrading,1977-05-14,19770514
+7.1,130,2, Ralph Nader/George Benson,1977-01-15,19770115
+7.1,121,3, Charles Grodin/Paul Simon,1977-10-29,19771029
+6.5,117,3, Art Garfunkel/Stephen Bishop,1978-03-11,19780311
+7.6,122,3, Steve Martin/Randy Newman/Nitty Gritty Dirt Band,1978-01-21,19780121
+6.8,112,3, Jill Clayburgh/Eddie Money,1978-03-18,19780318
+6.7,122,3, Madeline Kahn/Taj Mahal,1977-10-08,19771008
+6.1,120,3, Hugh Hefner/Libby Titus,1977-10-15,19771015
+7.6,135,3, Ray Charles,1977-11-12,19771112
+6.9,109,3, Buck Henry/Leon Redbone,1977-11-19,19771119
+7.3,109,3, Mary Kay Place/Willie Nelson,1977-12-10,19771210
+7.4,131,3, Steve Martin/Jackson Browne,1977-09-24,19770924
+7.4,113,3, Miskel Spillman/Elvis Costello,1977-12-17,19771217
+6.7,122,3, O.J. Simpson/Ashford & Simpson,1978-02-25,19780225
+7.1,109,3, Buck Henry/Sun Ra,1978-05-20,19780520
+7.5,107,3," Richard Dreyfuss/Jimmy Buffett, Gary Tigerman",1978-05-13,19780513
+8.7,201,3, Steve Martin/The Blues Brothers,1978-04-22,19780422
+6.9,109,3," Michael Sarrazin/Keith Jarrett, Gravity",1978-04-15,19780415
+7.6,113,3, Michael Palin/Eugene Record,1978-04-08,19780408
+7.6,142,3, Christopher Lee/Meat Loaf,1978-03-25,19780325
+7.5,122,3, Chevy Chase/Billy Joel,1978-02-18,19780218
+7.5,125,3, Robert Klein/Bonnie Raitt,1978-01-28,19780128
+7.5,132,4, The Rolling Stones,1978-10-07,19781007
+7.1,124,4, Fred Willard/Devo,1978-10-14,19781014
+7.9,125,4, Steve Martin/Van Morrison,1978-11-04,19781104
+6.6,126,4, Frank Zappa,1978-10-21,19781021
+7.0,104,4, Cicely Tyson/Talking Heads,1979-02-10,19790210
+7.9,162,4, Carrie Fisher/The Blues Brothers,1978-11-18,19781118
+7.3,105,4, Walter Matthau,1978-12-02,19781202
+7.9,167,4, Eric Idle/Kate Bush,1978-12-09,19781209
+7.2,103,4, Michael Palin/The Doobie Brothers,1979-01-27,19790127
+6.8,108,4, Buck Henry/The Grateful Dead,1978-11-11,19781111
+6.2,107,4, Elliott Gould/Peter Tosh,1978-12-16,19781216
+6.0,108,4, Milton Berle/Ornette Coleman,1979-04-14,19790414
+7.8,121,4, Buck Henry/Bette Midler,1979-05-26,19790526
+7.2,119,4, Ricky Nelson/Judy Collins,1979-02-17,19790217
+6.5,103,4, Kate Jackson/Delbert McClinton,1979-02-24,19790224
+7.0,100,4, Gary Busey/Eubie Blake and Gregory Hines,1979-03-10,19790310
+7.0,104,4, Margot Kidder/The Chieftains,1979-03-17,19790317
+7.3,100,4, Michael Palin/James Taylor,1979-05-12,19790512
+6.9,92,4, Maureen Stapleton/Linda Ronstadt/Phoebe Snow,1979-05-19,19790519
+7.4,104,4, Richard Benjamin/Rickie Lee Jones,1979-04-07,19790407
+6.8,93,5, Buck Henry/Tom Petty & The Heartbreakers,1979-11-10,19791110
+6.3,96,5, Bea Arthur/The Roches,1979-11-17,19791117
+6.3,92,5, Howard Hesseman/Randy Newman,1979-12-08,19791208
+6.5,94,5, Kirk Douglas/Sam and Dave,1980-02-23,19800223
+5.9,82,5, Ted Knight/Desmond Child & Rouge,1979-12-22,19791222
+6.4,86,5, Teri Garr/The B-52's,1980-01-26,19800126
+6.2,91,5, Bill Russell/Chicago,1979-11-03,19791103
+7.0,109,5, Martin Sheen/David Bowie,1979-12-15,19791215
+7.6,110,5, Eric Idle/Bob Dylan,1979-10-20,19791020
+7.6,87,5, Buck Henry/Andrew Gold/Andrae Crouch & Voices of Unity,1980-05-24,19800524
+6.4,89,5, Chevy Chase/Marianne Faithfull,1980-02-09,19800209
+6.2,80,5," Richard Benjamin, Paula Prentiss/The Grateful Dead",1980-04-05,19800405
+5.9,85,5, Burt Reynolds/Anne Murray,1980-04-12,19800412
+6.9,87,5, Strother Martin/The Specials,1980-04-19,19800419
+6.8,80,5, Bob Newhart/The Amazing Rhythm Aces/Bruce Cockburn,1980-05-10,19800510
+7.8,98,5, Steve Martin/Paul & Linda McCartney/3-D,1980-05-17,19800517
+7.1,104,5, Rodney Dangerfield/The J. Geils Band,1980-03-08,19800308
+6.3,81,5, Elliott Gould/Gary Numan,1980-02-16,19800216
+7.6,124,5, Steve Martin/Blondie,1979-10-13,19791013
+6.4,84,5," Paul Simon, James Taylor & David Sanborn",1980-03-15,19800315
+5.7,71,6, Robert Hays/14 Karat Soul/Joe 'King' Carrasco & The Crowns,1981-01-24,19810124
+7.3,90,6, Bill Murray/Delbert McClinton,1981-03-07,19810307
+5.5,80,6, Ray Sharkey/Jack Bruce & Friends,1981-01-10,19810110
+6.1,105,6, Elliott Gould/Kid Creole & the Coconuts,1980-11-15,19801115
+6.0,83,6, Ellen Burstyn/Aretha Franklin/Keith Sykes,1980-12-06,19801206
+6.1,87,6, Jamie Lee Curtis/James Brown/Ellen Shipley,1980-12-13,19801213
+6.1,86,6, David Carradine/Linda Ronstadt/Cast of 'The Pirates of Penzance',1980-12-20,19801220
+5.2,98,6, Malcolm McDowell/Captain Beefheart & The Magic Band,1980-11-22,19801122
+7.2,85,6, Jr. Walker & the All-Stars,1981-04-11,19810411
+5.7,71,6, Sally Kellerman/Jimmy Cliff,1981-02-07,19810207
+6.3,80,6, Deborah Harry,1981-02-14,19810214
+5.6,85,6, Charlene Tilton/Todd Rundgren/Prince,1981-02-21,19810221
+5.9,78,6, Karen Black/Cheap Trick/Stanley Clarke Trio,1981-01-17,19810117
+6.0,83,7, Lauren Hutton/Rick James & The Stone City Band,1981-11-07,19811107
+6.2,77,7, Robert Conrad/The Allman Brothers Band,1982-01-23,19820123
+6.3,90,7, Bill Murray/The Spinners/Yale Whiffenpoofs,1981-12-12,19811212
+6.5,77,7, Tim Curry/Meat Loaf/The Neverland Express,1981-12-05,19811205
+6.5,76,7, Bernadette Peters/The Go-Go's/Billy Joel,1981-11-14,19811114
+6.3,94,7, Rod Stewart,1981-10-03,19811003
+6.8,76,7, George Kennedy/Miles Davis,1981-10-17,19811017
+5.8,85,7, Susan Saint James/The Kinks,1981-10-10,19811010
+6.1,80,7, John Madden/Jennifer Holliday,1982-01-30,19820130
+6.6,87,7, Donald Pleasance/Fear,1981-10-31,19811031
+5.8,67,7, Robert Urich/Mink DeVille,1982-03-20,19820320
+6.9,75,7, Elizabeth Ashley/Hall & Oates,1982-02-27,19820227
+5.4,71,7, Bruce Dern/Luther Vandross,1982-02-20,19820220
+5.7,76,7, James Coburn/Lindsey Buckingham & The Cholos,1982-02-06,19820206
+6.4,76,7, Danny DeVito/Sparks,1982-05-15,19820515
+5.6,68,7, Robert Culp/The Charlie Daniels Band,1982-04-24,19820424
+7.0,80,7, Olivia Newton-John,1982-05-22,19820522
+6.0,75,7, Daniel J. Travanti/John Cougar,1982-04-10,19820410
+5.7,74,7, Blythe Danner/Rickie Lee Jones,1982-03-27,19820327
+7.2,94,7, Johnny Cash/Elton John,1982-04-17,19820417
+7.2,106,8, Drew Barrymore/Squeeze,1982-11-20,19821120
+6.7,77,8, Bruce Dern/Leon Redbone,1983-03-12,19830312
+6.8,91,8, The Smothers Brothers/Laura Branigan,1982-12-04,19821204
+6.5,98,8, Michael Keaton/The New Joe Jackson Band,1982-10-30,19821030
+6.1,89,8, Robert Blake/Kenny Loggins,1982-11-13,19821113
+7.1,86,8, Louis Gossett Jr/George Thorogood & The Destroyers,1982-10-02,19821002
+6.2,90,8, Lily Tomlin,1983-01-22,19830122
+7.8,110,8, Eddie Murphy/Lionel Richie,1982-12-11,19821211
+7.1,91,8, Rick Moranis and Dave Thomas/The Bus Boys,1983-01-29,19830129
+7.1,80,8, Mayor Ed Koch/Kevin Rowland & Dexy's Midnight Runners,1983-05-14,19830514
+6.1,83,8, Beau and Jeff Bridges/Randy Newman,1983-02-26,19830226
+7.1,83,8, Howard Hesseman/Tom Petty & The Heartbreakers,1983-02-19,19830219
+7.0,91,8, Howard Hesseman/Men at Work,1982-10-23,19821023
+7.9,122,8, Chevy Chase/Queen,1982-09-25,19820925
+6.3,81,8, Sid Caesar/Joe Cocker/Jennifer Warnes,1983-02-05,19830205
+7.6,110,8, Ron Howard/The Clash,1982-10-09,19821009
+6.7,77,8, Susan Saint James/Michael McDonald,1983-04-16,19830416
+7.7,86,8, Joan Rivers/Musical Youth,1983-04-09,19830409
+7.2,81,8, Robert Guilaume/Duran Duran,1983-03-19,19830319
+7.5,88,8, Stevie Wonder,1983-05-07,19830507
+5.7,86,9, Father Guido Sarducci/Huey Lewis & The News,1984-01-14,19840114
+7.2,89,9, Barry Bostwick/Spinal Tap,1984-05-05,19840505
+5.9,84,9, Brandon Tartikoff/John Cougar,1983-10-08,19831008
+6.2,93,9, Danny DeVito & Rhea Pearlman/Eddy Grant,1983-10-15,19831015
+6.2,88,9, John Candy/Men at Work,1983-10-22,19831022
+6.0,89,9, Betty Thomas/Stray Cats,1983-11-05,19831105
+5.8,89,9, Jerry Lewis/Loverboy,1983-11-19,19831119
+5.6,89,9, The Smothers Brothers/Big Country,1983-12-03,19831203
+6.3,85,9, Michael Palin and his mother/The Motels,1984-01-21,19840121
+6.0,88,9, Teri Garr/Mick Fleetwood's Zoo,1983-11-12,19831112
+6.5,100,9, Robin Williams/Adam Ant,1984-02-11,19840211
+6.5,89,9, Jamie Lee Curtis/The Fixx,1984-02-18,19840218
+5.9,91,9, Billy Crystal/Al Jarreau,1984-03-17,19840317
+6.2,92,9, Michael Douglas/Deniece Williams,1984-04-07,19840407
+5.7,90,9, George McGovern/Madness,1984-04-14,19840414
+7.8,85,9, Don Rickles/Billy Idol,1984-01-28,19840128
+6.0,87,9, Flip Wilson/Stevie Nicks,1983-12-10,19831210
+6.2,81,9, Edwin Newman/Kool & The Gang,1984-02-25,19840225
+6.3,93,9, Billy Crystal/Ed Koch/Edwin Newman/Father Guido Sarducci/Betty Thomas/The Cars,1984-05-12,19840512
+7.4,93,10, George Carlin/Frankie Goes to Hollywood,1984-11-10,19841110
+6.0,91,10," Jesse Jackson/Andrae Crouch, Wintley Phipps",1984-10-20,19841020
+5.9,86,10, Kathleen Turner/John Waite,1985-01-12,19850112
+6.8,84,10, Michael McKean/Chaka Khan/The Folksmen,1984-11-03,19841103
+7.0,81,10, Ed Asner/The Kinks,1984-11-17,19841117
+5.5,86,10, Ed Begley Jr/Billy Squier,1984-12-01,19841201
+6.4,86,10, Ringo Starr/Herbie Hancock,1984-12-08,19841208
+5.9,90,10, Harry Anderson/Bryan Adams,1985-02-09,19850209
+6.9,80,10, Roy Scheider/Billy Ocean,1985-01-19,19850119
+7.2,108,10, Eddie Murphy/Robert Plant & The Honeydrippers,1984-12-15,19841215
+5.7,91,10, Pamela Sue Martin/Power Station,1985-02-16,19850216
+7.0,71,10, SNL Film Festival,1985-03-02,19850302
+6.2,94,10, Mr. T and Hulk Hogan/The Commodores,1985-03-30,19850330
+6.4,84,10, Christopher Reeve/Santana,1985-04-06,19850406
+6.2,83,10, Howard Cosell/Greg Kihn,1985-04-13,19850413
+6.0,82,10, Bob Uecker/Peter Wolf,1984-10-13,19841013
+6.2,89,10, Thompson Twins,1984-10-06,19841006
+6.1,80,10, Alex Karras/Tina Turner,1985-02-02,19850202
+6.1,75,11, Anjelica Huston and Billy Martin/George Clinton & Parliament-Funkadelic,1986-05-24,19860524
+6.1,78,11, Chevy Chase/Sheila E.,1985-11-16,19851116
+6.1,74,11, Harry Dean Stanton/The Replacements,1986-01-18,19860118
+6.0,76,11, Pee Wee Herman/Queen Ida & The Bon Temps Zydeco Band,1985-11-23,19851123
+6.5,68,11, John Lithgow/Mr. Mister,1985-12-07,19851207
+5.7,77,11, Jerry Hall/Stevie Ray Vaughan/Jimmie Vaughan,1986-02-15,19860215
+5.7,68,11, Dudley Moore/Al Green,1986-01-25,19860125
+6.0,61,11, Griffin Dunne/Rosanne Cash,1986-03-15,19860315
+6.5,62,11, George Wendt and Francis Ford Coppola/Philip Glass,1986-03-22,19860322
+5.6,72,11, Oprah Winfrey/Joe Jackson,1986-04-12,19860412
+4.7,65,11, Tony Danza/Laurie Anderson,1986-04-19,19860419
+6.1,84,11, Madonna/Simple Minds,1985-11-09,19851109
+5.1,63,11, Jay Leno/The Neville Brothers,1986-02-22,19860222
+6.2,65,11, Ron Reagan/The Nelsons,1986-02-08,19860208
+5.5,65,11, Jimmy Breslin and Marvin Hagler/Level 42/E.G. Daily,1986-05-17,19860517
+5.6,68,11, Teri Garr/Dream Academy/The Cult,1985-12-21,19851221
+6.3,82,11, Tom Hanks/Sade,1985-12-14,19851214
+6.4,69,11, Catherine Oxenberg and Paul Simon/Ladysmith Black Mambazo,1986-05-10,19860510
+7.6,112,12, Sigourney Weaver/Buster Poindexter,1986-10-11,19861011
+7.6,87,12, Robin Williams/Paul Simon,1986-11-22,19861122
+7.6,82,12, Chevy Chase/Steve Martin/Martin Short/Randy Newman,1986-12-06,19861206
+6.5,70,12, Steve Guttenberg/The Pretenders,1986-12-13,19861213
+7.9,108,12, William Shatner/Lone Justice,1986-12-20,19861220
+6.3,68,12, Walter Payton & Joe Montana/Debbie Harry,1987-01-24,19870124
+5.4,66,12, Bronson Pinchot/Paul Young,1987-02-14,19870214
+5.9,108,12, Malcolm-Jamal Warner/Run-DMC,1986-10-18,19861018
+6.8,65,12, Bill Murray/Percy Sledge,1987-03-21,19870321
+6.6,68,12, Willie Nelson,1987-02-21,19870221
+5.9,64,12, John Lithgow/Anita Baker,1987-04-11,19870411
+6.6,97,12, Charlton Heston/Wynton Marsalis,1987-03-28,19870328
+6.4,108,12, Valerie Bertinelli/Robert Cray Band,1987-02-28,19870228
+6.3,67,12, Dennis Hopper/Roy Orbison,1987-05-23,19870523
+6.1,79,12, Garry Shandling/Los Lobos,1987-05-16,19870516
+6.0,64,12, John Larroquette/Timbuk-3,1987-04-18,19870418
+5.7,67,12, Paul Shaffer/Bruce Hornsby & The Range,1987-01-31,19870131
+5.5,65,12, Mark Harmon/Suzanne Vega,1987-05-09,19870509
+6.2,68,12, Rosanna Arquette/Ric Ocasek,1986-11-08,19861108
+6.2,77,12, Sam Kinison/Lou Reed,1986-11-15,19861115
+6.1,66,13, Carl Weathers/Robbie Robertson,1988-01-30,19880130
+6.8,76,13, Robin Williams/James Taylor,1988-01-23,19880123
+6.0,66,13, Paul Simon/Linda Ronstadt,1987-12-19,19871219
+5.6,66,13, Angie Dickinson/Buster Poindexter/David Gilmour,1987-12-12,19871212
+5.7,66,13, Danny DeVito/Bryan Ferry,1987-12-05,19871205
+7.0,70,13, Dabney Coleman/The Cars,1987-10-31,19871031
+5.7,73,13, Robert Mitchum/Simply Red,1987-11-14,19871114
+6.4,65,13," Judge Reinhold/10,000 Maniacs",1988-02-27,19880227
+5.7,74,13, Sean Penn/L.L. Cool J/The Pull,1987-10-24,19871024
+7.1,85,13, Steve Martin/Sting,1987-10-17,19871017
+6.1,70,13, Candice Bergen/Cher,1987-11-21,19871121
+6.3,81,13, Tom Hanks/Randy Travis,1988-02-20,19880220
+6.3,66,13, Justine Bateman/Terrance Trent D'Arby,1988-02-13,19880213
+6.0,77,14, Leslie Nielsen/Cowboy Junkies,1989-02-18,19890218
+5.8,105,14, Mel Gibson/Living Colour,1989-04-01,19890401
+5.8,75,14, Matthew Broderick/The Sugarcubes,1988-10-15,19881015
+6.1,70,14, John Larroquette/Randy Newman & Mark Knopfler,1988-10-22,19881022
+6.1,65,14, Matthew Modine/Edie Brickell & New Bohemians,1988-11-05,19881105
+7.1,77,14, Steve Martin/Tom Petty & The Heartbreakers,1989-05-20,19890520
+6.3,74,14, Wayne Gretzky/Fine Young Cannibals,1989-05-13,19890513
+5.7,69,14, Geena Davis/John Mellencamp,1989-04-22,19890422
+6.1,86,14, Dolly Parton,1989-04-15,19890415
+6.3,65,14, John Lithgow/Tracy Chapman,1988-11-19,19881119
+5.5,69,14, Glenn Close/Gipsy Kings,1989-02-25,19890225
+5.8,71,14, Demi Moore/Johnny Clegg & Savuka,1988-11-12,19881112
+5.7,68,14, Ted Danson/Luther Vandross,1989-01-28,19890128
+6.3,61,14, Tony Danza/John Hiatt,1989-01-28,19890128
+5.8,64,14, Melanie Griffith/Little Feat,1988-12-17,19881217
+6.3,66,14, John Malkovich/Anita Baker,1989-01-21,19890121
+6.9,99,14, Tom Hanks/Keith Richards,1988-10-08,19881008
+6.1,71,14, Danny DeVito/The Bangles,1988-12-03,19881203
+6.0,72,14, Mary Tyler Moore/Elvis Costello,1989-03-25,19890325
+6.6,68,14, Kevin Kline/Bobby McFerrin,1988-12-10,19881210
+5.3,70,15, Candice Bergen/The Notting Hillbillies,1990-05-19,19900519
+6.3,69,15, Andie MacDowell/Tracy Chapman,1989-12-16,19891216
+5.5,71,15, Quincy Jones & Co.,1990-02-10,19900210
+6.6,95,15, Alec Baldwin/The B-52's,1990-04-21,19900421
+5.7,71,15, Corbin Bernsen/The Smithereens,1990-04-14,19900414
+5.9,74,15, Debra Winger/Eric Clapton,1990-03-24,19900324
+6.1,86,15, Rob Lowe/The Pogues,1990-03-17,19900317
+6.6,80,15, Fred Savage/Technotronic,1990-02-24,19900224
+7.0,96,15, Tom Hanks/Aerosmith,1990-02-17,19900217
+6.7,78,15, Christopher Walken/Bonnie Raitt,1990-01-20,19900120
+6.3,89,15, Andrew Dice Clay/Julee Cruise/Spanic Boys,1990-05-12,19900512
+6.2,76,15, John Goodman/k.d. lang,1989-12-02,19891202
+6.1,82,15, Woody Harrelson/David Byrne,1989-11-18,19891118
+6.4,69,15, Chris Evert/Eurythmics,1989-11-11,19891111
+6.0,76,15, James Woods/Don Henley,1989-10-28,19891028
+6.0,74,15, Kathleen Turner/Billy Joel,1989-10-21,19891021
+5.9,80,15, Rick Moranis/Rickie Lee Jones,1989-10-07,19891007
+6.1,88,15, Ed O'Neill/Harry Connick Jr.,1990-01-13,19900113
+6.5,84,15, Bruce Willis/Neil Young,1989-09-30,19890930
+6.4,66,15, Robert Wagner/Linda Ronstadt & Aaron Neville,1989-12-09,19891209
+5.8,75,16, Jimmy Smits/World Party,1990-11-10,19901110
+6.1,82,16, George Wendt/Elvis Costello,1991-05-18,19910518
+5.6,73,16, Delta Burke/Chris Isaak,1991-05-11,19910511
+5.7,103,16, Steven Seagal/Michael Bolton,1991-04-20,19910420
+6.3,78,16, Catherine O'Hara/R.E.M.,1991-04-13,19910413
+6.5,78,16, Jeremy Irons/Fishbone,1991-03-23,19910323
+6.4,88,16, Michael J. Fox/Black Crowes,1991-03-16,19910316
+6.1,72,16, Dennis Hopper/Paul Simon,1990-11-17,19901117
+7.3,114,16, Kyle MacLachlan/Sinéad O'Connor,1990-09-29,19900929
+6.6,107,16, Alec Baldwin/Whitney Houston,1991-02-23,19910223
+6.4,77,16, Kevin Bacon/INXS,1991-02-09,19910209
+6.6,88,16, Sting,1991-01-19,19910119
+6.3,81,16, Joe Mantegna/Vanilla Ice,1991-01-12,19910112
+5.8,79,16, Dennis Quaid/The Neville Brothers,1990-12-15,19901215
+7.1,112,16, Tom Hanks/Edie Brickell & New Bohemians,1990-12-08,19901208
+7.0,112,16, John Goodman/Faith No More,1990-12-01,19901201
+6.3,79,16, George Steinbrenner/The Time,1990-10-20,19901020
+6.1,84,16, Roseanne Barr/Deee-lite,1991-02-16,19910216
+7.9,124,16, Patrick Swayze/Mariah Carey,1990-10-27,19901027
+6.5,79,16, Susan Lucci/Hothouse Flowers,1990-10-06,19901006
+7.1,93,17, Rob Morrow/Nirvana,1992-01-11,19920111
+6.5,77,17, Chevy Chase/Robbie Robertson,1992-01-18,19920118
+6.6,82,17, Kirstie Alley/Tom Petty & The Heartbreakers,1991-10-12,19911012
+7.2,75,17, Susan Dey/C+C Music Factory,1992-02-08,19920208
+7.7,84,17, Jason Priestley/Teenage Fanclub,1992-02-15,19920215
+7.5,115,17, Roseanne & Tom Arnold/Red Hot Chili Peppers,1992-02-22,19920222
+7.7,98,17, Steve Martin/James Taylor,1991-12-14,19911214
+6.3,70,17, Mary Stuart Masterson/En Vogue,1992-03-21,19920321
+7.6,104,17, Sharon Stone/Pearl Jam,1992-04-11,19920411
+7.3,154,17, Michael Jordan/Public Enemy,1991-09-28,19910928
+7.2,88,17, Jeff Daniels/Color Me Badd,1991-10-05,19911005
+6.9,74,17, Woody Harrelson/Vanessa Williams,1992-05-16,19920516
+5.1,76,17, Hammer,1991-12-07,19911207
+7.4,107,17, Macaulay Culkin/Tin Machine,1991-11-23,19911123
+7.7,107,17, Linda Hamilton/Mariah Carey,1991-11-16,19911116
+7.2,84,17, Kiefer Sutherland/Skid Row,1991-11-02,19911102
+7.4,89,17, Christian Slater/Bonnie Raitt,1991-10-26,19911026
+7.2,87,17, Tom Hanks/Bruce Springsteen,1992-05-09,19920509
+7.5,76,17, John Goodman/Garth Brooks,1992-03-14,19920314
+7.0,103,17, Jerry Seinfeld/Annie Lennox,1992-04-18,19920418
+6.4,79,18, Danny DeVito/Bon Jovi,1993-01-09,19930109
+6.6,95,18, Harvey Keitel/Madonna,1993-01-16,19930116
+7.2,76,18, Miranda Richardson/Soul Asylum,1993-03-20,19930320
+6.3,77,18, Glenn Close/Black Crowes,1992-12-12,19921212
+5.9,80,18, Tom Arnold/Neil Young,1992-12-05,19921205
+5.5,72,18, Sinbad/Sade,1992-11-21,19921121
+7.4,103,18, Alec Baldwin/Paul McCartney,1993-02-13,19930213
+6.0,98,18, Luke Perry/Mick Jagger,1993-02-06,19930206
+6.6,79,18," Catherine O'Hara/10,000 Maniacs",1992-10-31,19921031
+6.5,91,18, Tim Robbins/Sinéad O'Connor,1992-10-03,19921003
+7.6,107,18, Christopher Walken/Arrested Development,1992-10-24,19921024
+6.5,85,18, Joe Pesci/Spin Doctors,1992-10-10,19921010
+7.3,131,18, Christina Applegate/Midnight Oil,1993-05-15,19930515
+6.2,75,18, Kirstie Alley/Lenny Kravitz,1993-04-24,19930424
+7.0,81,18, Jason Alexander/Peter Gabriel,1993-04-10,19930410
+6.4,73,18, John Goodman/Mary J. Blige,1993-03-13,19930313
+7.1,85,18, Michael Keaton/Morrissey,1992-11-14,19921114
+7.6,101,18, Bill Murray/Sting,1993-02-20,19930220
+6.5,84,18, Nicolas Cage/Bobby Brown,1992-09-28,19920928
+6.2,74,18, Kevin Kline/Willie Nelson & Paul Simon,1993-05-22,19930522
+7.0,85,19, Helen Hunt/Snoop Doggy Dogg,1994-03-19,19940319
+5.1,78,19, Nancy Kerrigan/Aretha Franklin,1994-03-12,19940312
+5.1,73,19, Kelsey Grammer/Dwight Yoakam,1994-04-09,19940409
+5.9,79,19, Sally Field/Tony! Toni! Tone!,1993-12-11,19931211
+6.9,84,19, Emilio Estevez/Pearl Jam,1994-04-16,19940416
+6.6,87,19, Heather Locklear/Janet Jackson,1994-05-14,19940514
+5.9,74,19, John Goodman/The Pretenders,1994-05-07,19940507
+6.2,89,19, Alec Baldwin & Kim Basinger/UB40,1994-02-12,19940212
+5.8,87,19, Martin Lawrence/Crash Test Dummies,1994-02-19,19940219
+6.4,93,19, Sara Gilbert/Counting Crows,1994-01-15,19940115
+5.8,79,19, Jason Patric/Blind Melon,1994-01-08,19940108
+6.3,110,19, Charlton Heston/Paul Westerberg,1993-12-04,19931204
+6.7,104,19, Nicole Kidman/Stone Temple Pilots,1993-11-20,19931120
+6.6,89,19, Christian Slater/Smashing Pumpkins,1993-10-31,19931031
+6.6,84,19, John Malkovich/Billy Joel,1993-10-23,19931023
+7.4,116,19, Charles Barkley/Nirvana,1993-09-25,19930925
+6.4,101,19, Jeff Goldblum/Aerosmith,1993-10-09,19931009
+6.6,82,19, Shannen Doherty/Cypress Hill,1993-10-02,19931002
+4.9,81,19, Rosie O'Donnell/James Taylor,1993-11-13,19931113
+7.3,91,19, Patrick Stewart/Salt-N-Pepa,1994-02-05,19940205
+7.4,105,20, Steve Martin/Eric Clapton,1994-09-24,19940924
+6.9,91,20, Marisa Tomei/Bonnie Raitt,1994-10-01,19941001
+5.8,87,20, George Foreman/Hole,1994-12-17,19941217
+6.9,110,20, Courteney Cox/Dave Matthews Band,1995-04-15,19950415
+6.7,94,20, Dana Carvey/Edie Brickell,1994-10-22,19941022
+6.4,88,20, John Turturro/Tom Petty & the Heartbreakers,1994-11-17,19941117
+6.7,91,20, Roseanne/Green Day,1994-12-03,19941203
+7.2,106,20, Alec Baldwin/Beastie Boys,1994-12-10,19941210
+6.0,92,20, Sarah Jessica Parker/R.E.M.,1994-11-12,19941112
+6.0,94,20, Deion Sanders/Bon Jovi,1995-02-18,19950218
+7.8,105,20, John Travolta/Seal,1994-10-15,19941015
+6.9,90,20, David Hyde Pierce/Live,1995-01-21,19950121
+6.5,100,20, Bob Saget/TLC,1995-05-06,19950506
+7.6,105,20, David Duchovny/Rod Stewart,1995-05-13,19950513
+6.9,86,20, Damon Wayans/Dionne Farris,1995-04-08,19950408
+7.5,104,20, John Goodman/Tragically Hip,1995-03-25,19950325
+7.3,114,20, Jeff Daniels/Luscious Jackson,1995-01-14,19950114
+6.3,87,20, Paul Reiser/Annie Lennox,1995-03-18,19950318
+6.5,96,20, George Clooney/The Cranberries,1995-02-25,19950225
+7.2,89,20, Bob Newhart/Des'ree,1995-02-11,19950211
+5.9,88,21, Danny Aiello/Coolio,1996-02-10,19960210
+8.4,280,21, Jim Carrey/Soundgarden,1996-05-18,19960518
+6.3,77,21, Teri Hatcher/Dave Matthews Band,1996-04-20,19960420
+5.7,78,21, Steve Forbes/Rage Against the Machine,1996-04-13,19960413
+7.0,86,21, Phil Hartman/Gin Blossoms,1996-03-23,19960323
+7.2,78,21, John Goodman/Everclear,1996-03-16,19960316
+6.1,76,21, Elle MacPherson/Sting,1996-02-24,19960224
+6.6,81,21, Tom Arnold/Tupac Shakur,1996-02-17,19960217
+6.3,88,21, Christine Baranski/The Cure,1996-05-11,19960511
+6.8,84,21, Alec Baldwin/Tori Amos,1996-01-20,19960120
+7.2,90,21, Christopher Walken/Joan Osborne,1996-01-13,19960113
+6.8,84,21, Mariel Hemingway/Blues Traveler,1995-09-30,19950930
+6.5,88,21, David Alan Grier/Silverchair,1995-12-09,19951209
+6.5,86,21, Chevy Chase/Lisa Loeb and Nine Stories,1995-10-07,19951007
+6.0,85,21, David Schwimmer/Natalie Merchant,1995-10-21,19951021
+5.7,73,21, Madeline Kahn/Bush,1995-12-16,19951216
+6.9,100,21, Quentin Tarantino/Smashing Pumpkins,1995-11-11,19951111
+5.8,81,21, Laura Leighton/Rancid,1995-11-18,19951118
+6.4,74,21, Anthony Edwards/Foo Fighters,1995-12-02,19951202
+6.6,81,21, Gabriel Byrne/Alanis Morissette,1995-10-28,19951028
+6.3,88,22, Robert Downey Jr/Fiona Apple,1996-11-16,19961116
+6.4,91,22, Mike Myers/Aerosmith,1997-03-22,19970322
+5.7,84,22, Lisa Kudrow/Sheryl Crow,1996-10-05,19961005
+5.3,76,22, Bill Pullman/New Edition,1996-10-19,19961019
+6.1,74,22, Dana Carvey/Dr. Dre,1996-10-26,19961026
+4.7,94,22, Chris Rock/The Wallflowers,1996-11-02,19961102
+6.2,79,22, Jeff Goldblum/En Vogue,1997-05-17,19970517
+6.2,87,22, John Goodman/Jewel,1997-05-10,19970510
+4.6,112,22, Pamela Lee/Rollins Band,1997-04-19,19970419
+5.8,90,22, Rob Lowe/Spice Girls,1997-04-12,19970412
+5.7,75,22, Sting/Veruca Salt,1997-03-15,19970315
+6.0,86,22, Alec Baldwin/Tina Turner,1997-02-22,19970222
+5.6,78,22, Chevy Chase/Live,1997-02-15,19970215
+6.3,97,22, Neve Campbell/David Bowie,1997-02-08,19970208
+6.0,77,22, David Alan Grier/Snoop Doggy Dogg,1997-01-18,19970118
+6.8,101,22, Kevin Spacey/Beck,1997-01-11,19970111
+4.5,100,22, Rosie O'Donnell/Whitney Houston,1996-12-14,19961214
+4.9,100,22, Tom Hanks/Tom Petty & the Heartbreakers,1996-09-28,19960928
+6.0,93,22, Martin Short/No Doubt,1996-12-07,19961207
+6.1,88,22, Phil Hartman/Bush,1996-11-23,19961123
+5.8,79,23, John Goodman/Paula Cole,1998-02-07,19980207
+5.9,100,23, Helen Hunt/Hanson,1997-12-13,19971213
+5.8,84,23, Mayor Rudy Giuliani/Sarah McLachlan,1997-11-22,19971122
+5.9,101,23, Sarah Michelle Gellar/Portishead,1998-01-17,19980117
+5.9,83,23, Jon Lovitz/Jane's Addiction,1997-11-08,19971108
+6.8,116,23, Chris Farley/The Mighty Mighty Bosstones,1997-10-25,19971025
+5.6,108,23, Brendan Fraser/Björk,1997-10-18,19971018
+5.3,97,23, Claire Danes/Mariah Carey,1997-11-15,19971115
+5.5,70,23, Roma Downey/Missy 'Misdemeanor' Elliott,1998-02-14,19980214
+7.1,102,23, Sylvester Stallone/Jamiroquai,1997-09-27,19970927
+5.4,85,23, Julianne Moore/Backstreet Boys,1998-03-14,19980314
+6.5,126,23, Steve Buscemi/Third Eye Blind,1998-04-04,19980404
+5.5,75,23, Greg Kinnear/All Saints,1998-04-11,19980411
+5.8,86,23, Matthew Broderick/Natalie Merchant,1998-05-02,19980502
+5.6,118,23, David Duchovny/Puff Daddy/Jimmy Page,1998-05-09,19980509
+5.0,71,23, Scott Wolf/Natalie Imbruglia,1998-03-07,19980307
+6.2,81,23, Nathan Lane/Metallica,1997-12-06,19971206
+6.4,104,23, Matthew Perry/Oasis,1997-10-04,19971004
+6.5,88,23, Garth Brooks,1998-02-28,19980228
+7.2,81,23, Samuel L. Jackson/Ben Folds Five,1998-01-10,19980110
+5.4,76,24, Joan Allen/Jewel,1998-11-14,19981114
+5.5,79,24, Ray Romano/The Corrs,1999-03-13,19990313
+5.6,83,24, Vince Vaughn/Lauryn Hill,1998-12-05,19981205
+6.4,101,24, Bill Paxton/Beck,1999-01-09,19990109
+5.6,93,24, Kelsey Grammer/Sheryl Crow,1998-10-03,19981003
+7.2,104,24, Lucy Lawless/Elliott Smith,1998-10-17,19981017
+6.1,92,24, Ben Stiller/Alanis Morrisette,1998-10-24,19981024
+7.1,111,24," Alec Baldwin/Luciano Pavarotti, Vanessa Williams",1998-12-12,19981212
+5.6,91,24, David Spade/Eagle-Eye Cherry,1998-11-07,19981107
+5.4,81,24, James Van Der Beek/Everlast,1999-01-16,19990116
+5.8,116,24, Jennifer Love Hewitt/Beastie Boys,1998-11-21,19981121
+6.2,95,24, Gwyneth Paltrow/Barenaked Ladies,1999-02-06,19990206
+6.5,124,24, Sarah Michelle Gellar/Backstreet Boys,1999-05-15,19990515
+4.5,101,24," Cuba Gooding, Jr./Ricky Martin",1999-05-08,19990508
+6.7,99,24, Cameron Diaz/Smashing Pumpkins,1998-09-26,19980926
+6.5,91,24, Drew Barrymore/Garbage,1999-03-20,19990320
+5.8,82,24, Bill Murray/Lucinda Williams,1999-02-20,19990220
+6.4,93,24, Brendan Fraser/Busta Rhymes featuring The Roots,1999-02-13,19990213
+5.8,83,24, John Goodman/Tom Petty & The Heartbreakers,1999-04-10,19990410
+8.1,146,25, Christopher Walken/Christina Aguilera,2000-04-08,20000408
+5.8,72,25, Julianna Margulies/DMX,2000-02-12,20000212
+7.3,119,25, The Rock/AC/DC,2000-03-18,20000318
+6.4,102,25, Ben Affleck/Fiona Apple,2000-02-19,20000219
+6.6,97,25, Tobey Maguire/Sisqo,2000-04-15,20000415
+5.9,79,25, John Goodman/Neil Young,2000-05-06,20000506
+5.7,117,25, Jackie Chan/Kid Rock,2000-05-20,20000520
+6.0,95,25, Joshua Jackson/*NSYNC,2000-03-11,20000311
+6.1,108,25, Alan Cumming/Jennifer Lopez,2000-02-05,20000205
+6.0,96,25, Jamie Foxx/Blink-182,2000-01-08,20000108
+5.8,81,25, Christina Ricci/Beck,1999-12-04,19991204
+6.2,89,25," Freddie Prinze, Jr./Macy Gray",2000-01-15,20000115
+6.5,109,25, Jennifer Aniston/Sting,1999-11-20,19991120
+6.0,81,25, Garth Brooks/Chris Gaines,1999-11-13,19991113
+7.5,128,25, Jerry Seinfeld/David Bowie,1999-10-02,19991002
+5.8,151,25, Britney Spears,2000-05-13,20000513
+6.2,82,25, Heather Graham/Marc Anthony,1999-10-16,19991016
+5.8,84,25, Danny DeVito/R.E.M.,1999-12-11,19991211
+5.9,78,25, Dylan McDermott/Foo Fighters,1999-11-06,19991106
+7.4,104,25, Norm Macdonald/Dr. Dre featuring Snoop Dogg & Eminem,1999-10-23,19991023
+5.3,95,26, Renée Zellweger/Eve,2001-04-14,20010414
+5.5,75,26, Lara Flynn Boyle/Bon Jovi,2001-05-12,20010512
+7.3,122,26, Conan O'Brien/Don Henley,2001-03-10,20010310
+7.1,102,26, Christopher Walken/Weezer,2001-05-19,20010519
+5.8,94,26, Julia Stiles/Aerosmith,2001-03-17,20010317
+5.8,98,26, Alec Baldwin/Coldplay,2001-04-07,20010407
+6.7,118,26, Kate Hudson/Radiohead,2000-10-14,20001014
+5.7,110,26, Dana Carvey/The Wallflowers,2000-10-21,20001021
+5.4,152,26, Jennifer Lopez,2001-02-11,20010211
+5.3,84,26, Mena Suvari/Lenny Kravitz,2001-01-20,20010120
+5.2,87,26, Charlie Sheen/Nelly Furtado,2001-01-13,20010113
+5.7,107,26, Lucy Liu/Jay-Z,2000-12-16,20001216
+5.0,108,26, Tom Green/David Gray,2000-11-18,20001118
+4.6,90,26, Calista Flockhart/Ricky Martin,2000-11-11,20001111
+5.6,95,26, Charlize Theron/Paul Simon,2000-11-04,20001104
+5.4,89,26, Katie Holmes/Dave Matthews Band,2001-02-24,20010224
+6.2,109,26, Rob Lowe/Eminem,2000-10-07,20001007
+6.2,85,26, Sean Hayes/Shaggy,2001-02-17,20010217
+6.3,116,26, Val Kilmer/U2,2000-12-09,20001209
+6.7,101,26, Pierce Brosnan/Destiny's Child,2001-05-05,20010505
+5.7,103,27, Ellen Degeneres/No Doubt,2001-12-15,20011215
+6.5,92,27, Reese Witherspoon/Alicia Keys,2001-09-29,20010929
+6.5,116,27, Winona Ryder/Moby,2002-05-18,20020518
+5.7,99,27, Kirsten Dunst/Eminem,2002-05-11,20020511
+5.8,90,27, Alec Baldwin/P.O.D.,2002-04-20,20020420
+4.9,91,27, Billy Bob Thornton/Creed,2001-11-17,20011117
+7.0,121,27, Ian McKellen/Kylie Minogue,2002-03-16,20020316
+6.2,88,27, Jon Stewart/India.Arie,2002-03-09,20020309
+4.6,75,27, Jonny Moseley/Outkast,2002-03-02,20020302
+6.1,109,27, Britney Spears,2002-02-02,20020202
+6.8,93,27, Seann William Scott/Sum41,2001-10-06,20011006
+5.3,105,27, The Rock/Andrew W.K.,2002-04-13,20020413
+5.6,94,27, Josh Hartnett/Pink,2002-01-12,20020112
+6.7,117,27, Hugh Jackman/Mick Jagger,2001-12-08,20011208
+6.3,98,27, Derek Jeter/Shakira/Bubba Sparxxx,2001-12-01,20011201
+5.8,91,27, Gwyneth Paltrow/Ryan Adams,2001-11-10,20011110
+5.4,89,27, John Goodman/Ja Rule,2001-11-03,20011103
+5.4,90,27, Drew Barrymore/Macy Gray,2001-10-13,20011013
+5.5,78,27, Cameron Diaz/Jimmy Eat World,2002-04-06,20020406
+6.2,99,27, Jack Black/The Strokes,2002-01-19,20020119
+5.4,83,28, Brittany Murphy/Nelly,2002-11-16,20021116
+4.4,72,28, Nia Vardalos/Eve,2002-11-09,20021109
+4.8,74,28, Eric McCormack/Jay-Z,2002-11-02,20021102
+5.3,86,28, Adrien Brody/Sean Paul & Wayne Wonder,2003-05-10,20030510
+6.3,117,28, Sarah Michelle Gellar/Faith Hill,2002-10-12,20021012
+4.3,86,28, Ashton Kutcher/50 Cent,2003-05-03,20030503
+5.3,125,28, Senator John McCain/The White Stripes,2002-10-19,20021019
+5.9,102,28, Al Gore/Phish,2002-12-14,20021214
+6.1,104,28, Matt Damon/Bruce Springsteen & The E Street Band,2002-10-05,20021005
+5.5,77,28, Matthew McConaughey/Dixie Chicks,2003-02-08,20030208
+5.6,82,28, Jeff Gordon/Avril Lavigne,2003-01-11,20030111
+5.5,75,28, Ray Liotta/The Donnas,2003-01-18,20030118
+5.3,87,28, Dan Aykroyd/Beyonce,2003-05-17,20030517
+5.1,72,28, Ray Romano/Zwan,2003-04-12,20030412
+5.4,92,28, Robert De Niro/Norah Jones,2002-12-07,20021207
+5.8,106,28, Salma Hayek/Christina Aguilera,2003-03-15,20030315
+4.5,88,28, Queen Latifah/Ms. Dynamite,2003-03-08,20030308
+6.5,112,28, Christopher Walken/Foo Fighters,2003-02-22,20030222
+6.0,86,28, Jennifer Garner/Beck,2003-02-15,20030215
+4.7,73,28, Bernie Mac/Good Charlotte,2003-04-05,20030405
+3.7,99,29, Al Sharpton/Pink,2003-12-06,20031206
+6.2,92,29, Elijah Wood/Jet,2003-12-13,20031213
+5.1,94,29, Halle Berry/Britney Spears,2003-10-18,20031018
+5.6,89,29, Alec Baldwin/Missy Elliott,2003-11-15,20031115
+4.8,73,29, Andy Roddick/Dave Matthews,2003-11-08,20031108
+4.8,72,29, Kelly Ripa/Outkast,2003-11-01,20031101
+5.1,86,29, Jessica Simpson and Nick Lachey/G-Unit,2004-01-17,20040117
+6.5,108,29, Jennifer Aniston/Black Eyed Peas,2004-01-10,20040110
+6.2,99,29, Colin Firth/Norah Jones,2004-03-06,20040306
+5.8,87,29, Drew Barrymore/Kelis,2004-02-14,20040214
+5.9,90,29, Christina Aguilera/Maroon 5,2004-02-28,20040228
+5.5,87,29, Ben Affleck/N.E.R.D.,2004-03-13,20040313
+6.0,98,29, Janet Jackson,2004-04-10,20040410
+7.6,160,29, Lindsay Lohan/Usher,2004-05-01,20040501
+5.5,87,29, Jack Black/John Mayer,2003-10-04,20031004
+7.2,120,29, Justin Timberlake,2003-10-11,20031011
+5.3,90,29, Snoop Dogg/Avril Lavigne,2004-05-08,20040508
+5.5,105,29, Mary-Kate & Ashley Olsen/J-Kwon,2004-05-15,20040515
+5.6,92,29, Megan Mullally/Clay Aiken,2004-02-07,20040207
+4.3,146,29, Donald Trump/Toots and the Maytals,2004-04-03,20040403
+5.8,120,30, Johnny Knoxville/System of a Down,2005-05-07,20050507
+5.8,104,30, Liam Neeson/Modest Mouse,2004-11-13,20041113
+6.5,106,30, Topher Grace/The Killers,2005-01-15,20050115
+6.5,119,30, Ben Affleck/Nelly,2004-10-02,20041002
+4.9,101,30, Queen Latifah,2004-10-09,20041009
+6.1,123,30, Jude Law/Ashlee Simpson,2004-10-23,20041023
+5.8,114,30, Kate Winslet/Eminem,2004-10-30,20041030
+5.7,98,30, Luke Wilson/U2,2004-11-20,20041120
+6.0,124,30, Colin Farrell/Scissor Sisters,2004-12-11,20041211
+4.8,92,30, Hilary Swank/50 Cent,2005-02-19,20050219
+5.9,108,30, Robert De Niro/Destiny's Child,2004-12-18,20041218
+4.0,155,30, Paris Hilton/Keane,2005-02-05,20050205
+7.1,103,30, Jason Bateman/Kelly Clarkson,2005-02-12,20050212
+7.0,119,30, Will Ferrell/Queens of the Stone Age,2005-05-14,20050514
+5.8,99,30, David Spade/Jack Johnson,2005-03-12,20050312
+4.6,104,30, Ashton Kutcher/Gwen Stefani,2005-03-19,20050319
+5.3,112,30, Cameron Diaz/Green Day,2005-04-09,20050409
+6.2,105,30, Tom Brady/Beck,2005-04-16,20050416
+5.7,115,30, Lindsay Lohan/Coldplay,2005-05-21,20050521
+5.6,84,30, Paul Giamatti/Ludacris featuring Sum-41,2005-01-22,20050122
+6.4,132,31, Tom Hanks/Red Hot Chili Peppers,2006-05-06,20060506
+5.9,125,31, Antonio Banderas/Mary J. Blige,2006-04-08,20060408
+6.5,129,31, Lindsay Lohan/Pearl Jam,2006-04-15,20060415
+6.5,138,31, Julia Louis-Dreyfus/Paul Simon,2006-05-13,20060513
+5.2,110,31, Jon Heder/Ashlee Simpson,2005-10-08,20051008
+6.4,109,31, Peter Sarsgaard/The Strokes,2006-01-21,20060121
+6.3,124,31, Kevin Spacey/Nelly Furtado,2006-05-20,20060520
+6.1,103,31, Matt Dillon/Arctic Monkeys,2006-03-11,20060311
+6.7,155,31, Steve Carell/Kanye West,2005-10-01,20051001
+7.6,201,31, Natalie Portman/Fall Out Boy,2006-03-04,20060304
+6.1,126,31, Alec Baldwin/Shakira,2005-12-10,20051210
+6.9,155,31, Jack Black/Neil Young,2005-12-17,20051217
+6.8,135,31, Scarlett Johansson/Death Cab for Cutie,2006-01-14,20060114
+6.1,108,31, Jason Lee/Foo Fighters,2005-11-12,20051112
+6.3,107,31, Catherine Zeta-Jones/Franz Ferdinand,2005-10-22,20051022
+4.9,96,31, Lance Armstrong/Sheryl Crow,2005-10-29,20051029
+6.1,105,31, Eva Longoria/Korn,2005-11-19,20051119
+5.2,144,31, Dane Cook/James Blunt,2005-12-03,20051203
+7.2,132,31, Steve Martin/Prince,2006-02-04,20060204
+7.0,116,32, Matthew Fox/Tenacious D,2006-12-02,20061202
+7.4,135,32, Alec Baldwin/Christina Aguilera,2006-11-11,20061111
+5.7,91,32, Chris 'Ludacris' Bridges,2006-11-18,20061118
+7.2,152,32, Hugh Laurie/Beck,2006-10-28,20061028
+7.2,113,32, Jeremy Piven/AFI,2007-01-20,20070120
+7.5,155,32, Jake Gyllenhaal/The Shins,2007-01-13,20070113
+6.5,133,32, John C. Reilly/My Chemical Romance,2006-10-21,20061021
+6.5,101,32, Annette Bening/Gwen Stefani/Akon,2006-12-09,20061209
+5.4,112,32, Jaime Pressly/Corinne Bailey Rae,2006-10-07,20061007
+8.6,311,32, Justin Timberlake,2006-12-16,20061216
+5.6,162,32, Dane Cook/The Killers,2006-09-30,20060930
+7.3,123,32, Drew Barrymore/Lily Allen,2007-02-03,20070203
+6.2,92,32, Forest Whitaker/Keith Urban,2007-02-10,20070210
+7.2,124,32, Rainn Wilson/Arcade Fire,2007-02-24,20070224
+7.1,129,32, Julia Louis-Dreyfus/Snow Patrol,2007-03-17,20070317
+7.9,227,32, Peyton Manning/Carrie Underwood,2007-03-24,20070324
+7.3,184,32, Shia LaBeouf/Avril Lavigne,2007-04-14,20070414
+7.2,132,32, Scarlett Johansson/Björk,2007-04-21,20070421
+7.4,109,32, Molly Shannon/Linkin Park,2007-05-12,20070512
+7.2,132,32, Zach Braff/Maroon 5,2007-05-19,20070519
+6.6,136,33, Jonah Hill/Mariah Carey,2008-03-15,20080315
+7.3,145,33, Amy Adams/Vampire Weekend,2008-03-08,20080308
+6.9,121,33, Jon Bon Jovi/Foo Fighters,2007-10-13,20071013
+7.2,111,33, Brian Williams/Feist,2007-11-03,20071103
+7.7,163,33, Tina Fey/Carrie Underwood,2008-02-23,20080223
+7.0,186,33, Ellen Page/Wilco,2008-03-01,20080301
+7.2,143,33, Seth Rogen/Spoon,2007-10-06,20071006
+7.3,144,33, Steve Carell/Usher,2008-05-17,20080517
+7.2,130,33, Shia LaBeouf/My Morning Jacket,2008-05-10,20080510
+6.6,157,33, LeBron James/Kanye West,2007-09-29,20070929
+7.4,153,33, Christopher Walken/Panic at the Disco,2008-04-05,20080405
+6.6,116,33, Ashton Kutcher/Gnarls Barkley,2008-04-12,20080412
+6.8,136,34, Ben Affleck/David Cook,2008-11-01,20081101
+6.1,101,34, Tim McGraw/Ludacris/T-Pain,2008-11-22,20081122
+7.8,179,34, Paul Rudd/Beyoncé,2008-11-15,20081115
+7.4,162,34, Jon Hamm/Coldplay,2008-10-25,20081025
+5.7,168,34, Michael Phelps/Lil' Wayne,2008-09-13,20080913
+7.6,193,34, Anne Hathaway/The Killers,2008-10-04,20081004
+6.7,173,34, James Franco/Kings of Leon,2008-09-20,20080920
+6.4,141,34, Hugh Laurie/Kanye West,2008-12-13,20081213
+7.5,148,34, John Malkovich/T.I.,2008-12-06,20081206
+7.4,168,34, Josh Brolin/Adele,2008-10-18,20081018
+6.4,124,34, Bradley Cooper/TV on the Radio,2009-02-07,20090207
+6.5,124,34, Anna Faris/Duffy,2008-09-27,20080927
+5.8,121,34, Rosario Dawson/Fleet Foxes,2009-01-17,20090117
+7.1,159,34, Neil Patrick Harris/Taylor Swift,2009-01-10,20090110
+8.2,245,34, Justin Timberlake/Ciara,2009-05-09,20090509
+6.8,157,34, Zac Efron/Yeah Yeah Yeahs,2009-04-11,20090411
+6.2,125,34, Seth Rogen/Phoenix,2009-04-04,20090404
+7.7,183,34, Will Ferrell/Green Day,2009-05-16,20090516
+7.5,149,34, Dwayne Johnson/Ray LaMontagne,2009-03-07,20090307
+6.8,137,34, Alec Baldwin/Jonas Brothers,2009-02-14,20090214
+6.2,125,34, Steve Martin/Jason Mraz,2009-01-31,20090131
+6.3,119,34, Tracy Morgan/Kelly Clarkson,2009-03-14,20090314
+5.6,170,35, Taylor Lautner/Bon Jovi,2009-12-12,20091212
+5.7,137,35, Gabourey Sidibe/MGMT,2010-04-24,20100424
+6.3,200,35, Jennifer Lopez,2010-02-27,20100227
+7.7,184,35, Zach Galifianakis/Vampire Weekend,2010-03-06,20100306
+6.5,140,35, Jude Law/Pearl Jam,2010-03-13,20100313
+7.3,200,35, Tina Fey/Justin Bieber,2010-04-10,20100410
+6.9,140,35, Alec Baldwin/Tom Petty & the Heartbreakers,2010-05-15,20100515
+8.9,589,35, Betty White/Jay-Z,2010-05-08,20100508
+6.9,175,35, James Franco/Muse,2009-12-19,20091219
+6.4,132,35, Ryan Phillippe/Ke$ha,2010-04-17,20100417
+4.8,155,35, January Jones/Black Eyed Peas,2009-11-14,20091114
+5.9,129,35, Ashton Kutcher/Them Crooked Vultures,2010-02-06,20100206
+7.1,233,35, Ryan Reynolds/Lady Gaga,2009-10-03,20091003
+7.2,179,35, Joseph Gordon-Levitt/Dave Matthews Band,2009-11-21,20091121
+6.6,164,35, Blake Lively/Rihanna,2009-12-05,20091205
+6.8,168,35, Gerard Butler/Shakira,2009-10-17,20091017
+6.2,192,35, Megan Fox/U2,2009-09-26,20090926
+6.6,153,35, Sigourney Weaver/The Ting Tings,2010-01-16,20100116
+6.0,126,35, Charles Barkley/Alicia Keys,2010-01-09,20100109
+7.2,224,35, Taylor Swift,2009-11-07,20091107
+7.3,166,35, Jon Hamm/Michael Bublé,2010-01-30,20100130
+6.2,144,35, Drew Barrymore/Regina Spektor,2009-10-10,20091010
+7.4,189,36, Jim Carrey/The Black Keys,2011-01-08,20110108
+6.3,151,36, Jeff Bridges/Eminem and Lil Wayne,2010-12-18,20101218
+6.8,164,36, Paul Rudd/Paul McCartney,2010-12-11,20101211
+6.0,160,36, Robert De Niro/Diddy-Dirty Money,2010-12-04,20101204
+6.9,161,36, Anne Hathaway/Florence and the Machine,2010-11-20,20101120
+6.8,157,36, Jon Hamm/Rihanna,2010-10-30,20101030
+7.3,197,36, Emma Stone/Kings of Leon,2010-10-23,20101023
+6.4,142,36, Jane Lynch/Bruno Mars,2010-10-09,20101009
+6.5,146,36, Gwyneth Paltrow/Cee Lo Green,2011-01-15,20110115
+7.3,183,36, Jesse Eisenberg/Nicki Minaj,2011-01-29,20110129
+6.8,178,36, Bryan Cranston/Kanye West,2010-10-02,20101002
+7.1,164,36, Tina Fey/Ellie Goulding,2011-05-07,20110507
+6.6,179,36, Miley Cyrus/The Strokes,2011-03-05,20110305
+7.3,166,36, Zach Galifianakis/Jessie J,2011-03-12,20110312
+6.5,132,36, Helen Mirren/Foo Fighters,2011-04-09,20110409
+6.5,141,36, Ed Helms/Paul Simon,2011-05-14,20110514
+8.4,314,36, Justin Timberlake/Lady Gaga,2011-05-21,20110521
+6.2,156,36, Russell Brand/Chris Brown,2011-02-12,20110212
+7.2,156,36, Dana Carvey/Linkin Park,2011-02-05,20110205
+6.4,165,36, Scarlett Johansson/Arcade Fire,2010-11-13,20101113
+6.4,145,36, Elton John/Leon Russell,2011-04-02,20110402
+7.4,214,36, Amy Poehler/Katy Perry,2010-09-25,20100925
+7.1,179,37, Jonah Hill/The Shins,2012-03-10,20120310
+7.4,214,37, Alec Baldwin/Radiohead,2011-09-24,20110924
+7.5,232,37, Melissa McCarthy/Lady Antebellum,2011-10-01,20111001
+7.1,199,37, Ben Stiller/Foster the People,2011-10-08,20111008
+6.2,194,37, Anna Faris/Drake,2011-10-15,20111015
+7.1,195,37, Charlie Day/Maroon 5,2011-11-05,20111105
+7.5,214,37, Emma Stone/Coldplay,2011-11-12,20111112
+7.4,212,37, Jason Segel/Florence and the Machine,2011-11-19,20111119
+6.8,160,37, Steve Buscemi/The Black Keys,2011-12-03,20111203
+8.3,321,37, Jimmy Fallon/Michael Bublé,2011-12-17,20111217
+7.1,206,37, Katy Perry/Robyn,2011-12-10,20111210
+7.8,218,37, Mick Jagger,2012-05-19,20120519
+6.6,225,37, Daniel Radcliffe/Lana Del Rey,2012-01-14,20120114
+6.2,184,37, Channing Tatum/Bon Iver,2012-02-04,20120204
+7.3,212,37, Zooey Deschanel/Karmin,2012-02-11,20120211
+8.1,228,37, Maya Rudolph/Sleigh Bells,2012-02-18,20120218
+6.0,211,37, Lindsay Lohan/Jack White,2012-03-03,20120303
+7.2,218,37, Sofía Vergara/One Direction,2012-04-07,20120407
+6.8,160,37, Josh Brolin/Gotye,2012-04-14,20120414
+5.8,175,37, Charles Barkley/Kelly Clarkson,2012-01-07,20120107
+7.4,166,37, Will Ferrell/Usher,2012-05-12,20120512
+6.3,162,37, Eli Manning/Rihanna,2012-05-05,20120505
+7.4,234,38, Bruno Mars,2012-10-20,20121020
+6.7,187,38, Christina Applegate/Passion Pit,2012-10-13,20121013
+7.7,332,38, Seth MacFarlane/Frank Ocean,2012-09-15,20120915
+7.0,246,38, Joseph Gordon-Levitt/Mumford & Sons,2012-09-22,20120922
+6.2,199,38, Daniel Craig/Muse,2012-10-06,20121006
+7.5,191,38, Ben Affleck/Kanye West,2013-05-18,20130518
+7.3,179,38, Kristen Wiig/Vampire Weekend,2013-05-11,20130511
+7.4,182,38, Zach Galifianakis/Of Monsters and Men,2013-05-04,20130504
+5.7,144,38, Vince Vaughn/Miguel,2013-04-13,20130413
+8.4,364,38, Justin Timberlake,2013-03-09,20130309
+4.4,255,38, Justin Bieber,2013-02-09,20130209
+7.0,226,38, Christoph Waltz/Alabama Shakes,2013-02-16,20130216
+6.4,192,38, Kevin Hart/Macklemore & Ryan Lewis,2013-03-02,20130302
+7.4,236,38, Anne Hathaway/Rihanna,2012-11-10,20121110
+6.7,219,38, Jeremy Renner/Maroon 5,2012-11-17,20121117
+6.6,181,38, Jamie Foxx/Ne-Yo,2012-12-08,20121208
+7.2,246,38, Louis C.K./Fun,2012-11-03,20121103
+7.1,179,38, Melissa McCarthy/Phoenix,2013-04-06,20130406
+6.5,201,38, Adam Levine/Kendrick Lamar,2013-01-26,20130126
+6.7,253,38, Jennifer Lawrence/The Lumineers,2013-01-19,20130119
+7.7,211,38, Martin Short/Paul McCartney,2012-12-15,20121215
+7.9,249,39, Andy Samberg/St. Vincent,2014-05-17,20140517
+7.1,212,39, Louis C.K./Sam Smith,2014-03-29,20140329
+7.5,269,39, Lady Gaga,2013-11-16,20131116
+7.5,244,39, Anna Kendrick/Pharrell Williams,2014-04-05,20140405
+6.5,196,39, Seth Rogen/Ed Sheeran,2014-04-12,20140412
+7.4,222,39, Andrew Garfield/Coldplay,2014-05-03,20140503
+6.2,174,39, Charlize Theron/The Black Keys,2014-05-10,20140510
+7.5,249,39, Kerry Washington/Eminem,2013-11-02,20131102
+7.5,276,39, Tina Fey/Arcade Fire,2013-09-28,20130928
+6.0,194,39, Lena Dunham/The National,2014-03-08,20140308
+6.6,281,39, Miley Cyrus,2013-10-05,20131005
+6.4,221,39, Melissa McCarthy/Imagine Dragons,2014-02-01,20140201
+7.3,248,39, Josh Hutcherson/HAIM,2013-11-23,20131123
+7.0,232,39, Drake,2014-01-18,20140118
+8.7,531,39, Jimmy Fallon/Justin Timberlake,2013-12-21,20131221
+6.0,215,39, Jim Parsons/Beck,2014-03-01,20140301
+7.2,187,39, John Goodman/Kings of Leon,2013-12-14,20131214
+7.1,227,39, Edward Norton/Janelle Monae,2013-10-26,20131026
+7.3,232,39, Paul Rudd/One Direction,2013-12-07,20131207
+7.2,200,39, Jonah Hill/Bastille,2014-01-25,20140125
+6.5,237,39, Bruce Willis/Katy Perry,2013-10-12,20131012
+7.2,207,40, Louis C.K./Rihanna,2015-05-16,20150516
+6.1,228,40, Dakota Johnson/Alabama Shakes,2015-02-28,20150228
+7.2,214,40, J.K. Simmons/D'Angelo,2015-01-31,20150131
+5.7,213,40, Blake Shelton,2015-01-25,20150125
+6.2,177,40, Reese Witherspoon/Florence + the Machine,2015-05-09,20150509
+6.5,192,40, Scarlett Johansson/Wiz Khalifa,2015-05-02,20150502
+5.9,208,40, Taraji P. Henson/Mumford & Sons,2015-04-11,20150411
+7.2,227,40, Chris Hemsworth/Zac Brown Band,2015-03-07,20150307
+7.3,242,40, Michael Keaton/Carly Rae Jepsen,2015-04-04,20150404
+6.4,239,40, James Franco/Nicki Minaj,2014-12-06,20141206
+6.8,267,40, Sarah Silverman/Maroon 5,2014-10-04,20141004
+8.0,375,40, Bill Hader/Hozier,2014-10-11,20141011
+6.3,268,40, Chris Rock/Prince,2014-11-01,20141101
+7.3,253,40, Woody Harrelson/Kendrick Lamar,2014-11-15,20141115
+6.2,217,40, Cameron Diaz/Mark Ronson & Bruno Mars,2014-11-22,20141122
+7.6,362,40, Jim Carrey/Iggy Azalea,2014-10-25,20141025
+7.4,254,40, Martin Freeman/Charli XCX,2014-12-13,20141213
+7.9,259,40, Dwayne Johnson/George Ezra,2015-03-28,20150328
+6.7,216,40, Kevin Hart/Sia,2015-01-17,20150117
+6.7,346,40, Chris Pratt/Ariana Grande,2014-09-27,20140927
+6.9,236,40, Amy Adams/One Direction,2014-12-20,20141220
+7.8,321,41, Ryan Gosling/Leon Bridges,2015-12-05,20151205
+7.3,272,41, Matthew McConaughey/Adele,2015-11-21,20151121
+6.3,294,41, Miley Cyrus,2015-10-03,20151003
+3.1,784,41, Donald Trump/Sia,2015-11-07,20151107
+5.7,218,41, Jonah Hill/Future,2016-03-05,20160305
+6.8,300,41, Amy Schumer/The Weeknd,2015-10-10,20151010
+7.5,313,41, Adam Driver/Chris Stapleton,2016-01-16,20160116
+7.7,342,41, Tina Fey & Amy Poehler/Bruce Springsteen and the E Street Band,2015-12-19,20151219
+6.0,217,41, Drake,2016-05-14,20160514
+5.9,254,41, Ronda Rousey/Selena Gomez,2016-01-23,20160123
+8.0,321,41, Larry David/The 1975,2016-02-06,20160206
+6.5,226,41, Chris Hemsworth/Chance The Rapper,2015-12-12,20151212
+7.5,266,41, Tracy Morgan/Demi Lovato,2015-10-17,20151017
+6.9,233,41, Elizabeth Banks/Disclosure,2015-11-14,20151114
+6.4,240,41, Melissa McCarthy/Kanye West,2016-02-13,20160213
+7.5,237,41, Fred Armisen/Courtney Barnett,2016-05-21,20160521
+6.3,200,41, Brie Larson/Alicia Keys,2016-05-07,20160507
+6.3,227,41, Julia Louis-Dreyfus/Nick Jonas,2016-04-16,20160416
+5.4,208,41, Russell Crowe/Margo Price,2016-04-09,20160409
+6.9,350,41, Peter Dinklage/Gwen Stefani,2016-04-02,20160402
+7.9,331,41, Ariana Grande,2016-03-12,20160312
+5.4,302,42, Felicity Jones/Sturgill Simpson,2017-01-14,20170114
+6.8,259,42, Melissa McCarthy/Haim,2017-05-13,20170513
+6.7,287,42, Casey Affleck/Chance the Rapper,2016-12-17,20161217
+6.2,255,42, Chris Pine/LCD Soundsystem,2017-05-06,20170506
+7.6,433,42, Margot Robbie/The Weeknd,2016-10-01,20161001
+7.5,403,42, Lin-Manuel Miranda/Twenty One Pilots,2016-10-08,20161008
+8.2,573,42, Dave Chappelle/A Tribe Called Quest,2016-11-12,20161112
+6.4,323,42, Emily Blunt/Bruno Mars,2016-10-15,20161015
+6.6,310,42, Kristen Wiig/The XX,2016-11-19,20161119
+7.0,293,42, Emma Stone/Shawn Mendes,2016-12-03,20161203
+6.3,270,42, John Cena/Maren Morris,2016-12-10,20161210
+7.4,257,42, Dwayne Johnson/Katy Perry,2017-05-20,20170520
+7.3,349,42, Aziz Ansari/Big Sean,2017-01-21,20170121
+6.6,292,42, Jimmy Fallon/Harry Styles,2017-04-15,20170415
+7.3,285,42, Louis C.K./The Chainsmokers,2017-04-08,20170408
+7.0,279,42, Scarlett Johansson/Lorde,2017-03-11,20170311
+5.7,237,42, Octavia Spencer/Father John Misty,2017-03-04,20170304
+7.2,302,42, Alec Baldwin/Ed Sheeran,2017-02-11,20170211
+8.0,474,42, Kristen Stewart/Alessia Cara,2017-02-04,20170204
+6.5,326,42, Benedict Cumberbatch/Solange,2016-11-05,20161105
+8.0,472,42, Tom Hanks/Lady Gaga,2016-10-22,20161022
+6.5,325,43, Tiffany Haddish/Taylor Swift,2017-11-11,20171111
+7.2,285,43, Sam Rockwell/Halsey,2018-01-13,20180113
+7.0,349,43, Ryan Gosling/Jay-Z,2017-09-30,20170930
+6.7,372,43, Gal Gadot/Sam Smith,2017-10-07,20171007
+7.1,315,43, Kumail Nanjiani/P!nk,2017-10-14,20171014
+6.6,290,43, Larry David/Miley Cyrus,2017-11-04,20171104
+6.8,291,43, Chance the Rapper/Eminem,2017-11-18,20171118
+7.0,273,43, James Franco/SZA,2017-12-09,20171209
+6.2,240,43, Kevin Hart/Foo Fighters,2017-12-16,20171216
+7.2,293,43, Will Ferrell/Chris Stapleton,2018-01-27,20180127
+6.3,268,43, Jessica Chastain/Troye Sivan,2018-01-20,20180120
+6.7,306,43, Saoirse Ronan/U2,2017-12-02,20171202
+6.8,256,43, Sterling K. Brown/James Bay,2018-03-10,20180310
+7.2,289,43, Natalie Portman/Dua Lipa,2018-02-03,20180203
+6.6,248,43, Tina Fey/Nicki Minaj,2018-05-19,20180519
+5.5,282,43, Amy Schumer/Kacey Musgraves,2018-05-12,20180512
+8.0,447,43, Donald Glover/Childish Gambino,2018-05-05,20180505
+5.7,229,43, Charles Barkley/Migos,2018-03-03,20180303
+6.5,250,43, Chadwick Boseman/Cardi B,2018-04-07,20180407
+8.1,367,43, Bill Hader/Arcade Fire,2018-03-17,20180317
+7.6,320,43, John Mulaney/Jack White,2018-04-14,20180414
+6.4,266,44, Rachel Brosnahan/Greta Van Fleet,2019-01-19,20190119
+6.7,223,44, Emma Thompson/Jonas Brothers,2019-05-11,20190511
+6.6,220,44, Paul Rudd/DJ Khaled,2019-05-18,20190518
+7.3,325,44, Matt Damon/Mark Ronson and Miley Cyrus,2018-12-15,20181215
+8.1,391,44, John Mulaney/Thomas Rhett,2019-03-02,20190302
+6.6,256,44, Don Cheadle/Gary Clark Jr.,2019-02-16,20190216
+7.0,293,44, Halsey,2019-02-09,20190209
+6.9,285,44, James McAvoy/Meek Mill,2019-01-26,20190126
+8.3,438,44, Adam Sandler/Shawn Mendes,2019-05-04,20190504
+6.6,281,44, Kit Harington/Sara Bareilles,2019-04-06,20190406
+6.3,256,44, Claire Foy/Anderson .Paak,2018-12-01,20181201
+5.3,385,44, Awkwafina/Travis Scott,2018-10-06,20181006
+6.6,291,44, Steve Carell/Ella Mai,2018-11-17,20181117
+6.5,447,44, Adam Driver/Kanye West,2018-09-29,20180929
+6.5,311,44, Jason Momoa/Mumford & Sons,2018-12-08,20181208
+6.2,305,44, Seth Meyers/Paul Simon,2018-10-13,20181013
+6.8,260,44, Liev Schreiber/Li'l Wayne,2018-11-10,20181110
+6.4,287,44, Jonah Hill/Maggie Rogers,2018-11-03,20181103
+6.5,232,44, Idris Elba/Khalid,2019-03-09,20190309
+6.3,256,44, Emma Stone/BTS,2019-04-13,20190413
+6.3,242,44, Sandra Oh/Tame Impala,2019-03-30,20190330
+7.0,333,45, David Harbour/Camila Cabello,2019-10-12,20191012
+6.1,277,45, JJ Watt/Luke Combs,2020-02-01,20200201
+6.9,255,45, SNL At Home: Brad Pitt/Miley Cyrus,2020-04-25,20200425
+6.5,319,45, Scarlett Johansson/Niall Horan,2019-12-14,20191214
+6.7,427,45, Woody Harrelson/Billie Eilish,2019-09-28,20190928
+7.2,423,45, Phoebe Waller-Bridge/Taylor Swift,2019-10-05,20191005
+5.9,371,45, Kristen Stewart/Coldplay,2019-11-02,20191102
+6.8,395,45, Harry Styles,2019-11-16,20191116
+7.5,366,45, Will Ferrell/King Princess,2019-11-23,20191123
+7.2,354,45, Chance the Rapper,2019-10-26,20191026
+8.8,813,45, Eddie Murphy/Lizzo,2019-12-21,20191221
+7.1,286,45, Daniel Craig/The Weeknd,2020-03-07,20200307
+7.7,409,45, Adam Driver/Halsey,2020-01-25,20200125
+6.7,338,45, Saturday Night Live at Home: Tom Hanks/Chris Martin,2020-04-11,20200411
+5.9,228,45, SNL At Home: Kristen Wiig/Boyz II Men,2020-05-09,20200509
+7.6,366,45, John Mulaney/David Byrne,2020-02-29,20200229
+5.9,322,45, RuPaul/Justin Bieber,2020-02-08,20200208
+5.9,375,45, Jennifer Lopez/DaBaby,2019-12-07,20191207
+5.9,346,46, Regina King/Nathaniel Rateliff,2021-02-13,20210213
+6.4,427,46, Dan Levy/Phoebe Bridgers,2021-02-06,20210206
+4.8,853,46, Elon Musk/Miley Cyrus,2021-05-08,20210508
+6.4,289,46, Nick Jonas,2021-02-27,20210227
+6.4,320,46, Daniel Kaluuya/St. Vincent,2021-04-03,20210403
+6.9,335,46, Keegan-Michael Key/Olivia Rodrigo,2021-05-15,20210515
+6.5,339,46, Jason Bateman/Morgan Wallen,2020-12-05,20201205
+6.9,329,46, Carey Mulligan/Kid Cudi,2021-04-10,20210410
+6.1,401,46, John Krasinski/Machine Gun Kelly,2021-01-30,20210130
+7.9,400,46, Anya Taylor-Joy/Lil Nas X,2021-05-22,20210522
+7.1,463,46, Timothée Chalamet/Bruce Springsteen & the E Street Band,2020-12-12,20201212
+7.2,532,46, Dave Chappelle/Foo Fighters,2020-11-07,20201107
+6.8,431,46, John Mulaney/The Strokes,2020-10-31,20201031
+7.2,717,46, Adele/H.E.R.,2020-10-24,20201024
+5.7,413,46, Issa Rae/Justin Bieber,2020-10-17,20201017
+6.8,532,46, Bill Burr/Jack White,2020-10-10,20201010
+6.1,332,46, Maya Rudolph/Jack Harlow,2021-03-27,20210327
+6.4,501,46, Chris Rock/Megan Thee Stallion,2020-10-03,20201003
+6.8,368,46, Kristen Wiig/Dua Lipa,2020-12-19,20201219
+6.5,378,46, Regé-Jean Page/Bad Bunny,2021-02-20,20210220
