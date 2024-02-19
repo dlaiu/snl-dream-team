@@ -3,13 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Story template</title>
+    <title>When was the best SNL era, objectively</title>
     
     <!-- Google fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
 
@@ -17,8 +18,8 @@
     <body>
         <div class="content">
             <div class="header">
-                <h1>When was the best era of SNL, <em>objectively</em></h1>
-                <p class="subhead">Settling the debate once and for all</p>
+                <h1>When was the best SNL era, <em>objectively</em></h1>
+                <p class="subhead">Settling the debate once and for all.</p>
             </div>
             <div class="byline">
                 <p>By <a href="https://dlaiu.github.com">Darryl Laiu</a></p>
@@ -28,7 +29,7 @@
 
             <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ugh the best era &lt;3</p>&mdash; cass (@_cassieroberts_) <a href="https://twitter.com/_cassieroberts_/status/1758317671320608880?ref_src=twsrc%5Etfw">February 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-            <p>And not infrequently, comments like this can be seen on their YouTube videos:</p>
+            <p style="padding-top: 1em;">And not infrequently, comments like this can be seen on their YouTube videos:</p>
 
             <img src="static/snl-bad-comment-1.png" alt="YouTube comment that says 'I'm convinced that SNL is doing some kind of social experiment to see how long we'll keep watching.'">
 
@@ -42,19 +43,110 @@
 
             <img src="static/snl-chart.png" alt="A bar chart that shows SNL ratings across seasons. There isn't much variance across seasons.">
 
-            <p>For all talk that people spout, the ratings don't actually vary that drastically across the 46 seasons I look at in the dataset.</p>
+            <p>For all the talk that people spout, the ratings don't actually vary that drastically across the 46 seasons I look at in the dataset.</p>
 
             <p>Season 3 scored the highest with an average episode rating of 7.2. The cast during this season was: </p>
 
-            <p>On the flip side, Season 28 was the worst scoring season, with an average episode rating of 5.4. The cast during this season was:</p>
+            <img src="static/snl-season-3-cast.png" alt="">
 
+            <p>Ironically, this season had quite a lot of off-screen drama.</p>
             
+            <p>According to Wikipedia, this was the season where original cast member Chevy Chase returned to host. The cast was allegedly resentful and Bill Murray and Chevy Chase apparently fought.</p>
 
+            <p>And yet, Season 28 was the worst scoring season, with an average episode rating of 5.4. The cast during this season was:</p>
 
+            <img src="static/snl-season-4-cast.png" alt="">
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p>You can change the fonts by using <a href="https://fonts.google.com/">Google Fonts</a> and some CSS. Right now we're using Lora for headlines and Georgia for body copy.</a></p>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>But somehow, in 2002, it was ranked 10th on TV Guide's 50 Greatest TV shows of All Time.</p>
+
+            <p>So, it seems that the quality of SNL doesn't actually vary that much across seasons. But I also wanted to know about the cast. How did the cast members stack up against each other?</p>
+
+            <p>This was a bit trickier. Ratings are usually for an entire episode so casts members don't get individual ratings. And with a variety show like SNL, how do you quantify how much a cast member actually contributed to it?</p>
+
+            <p>I decided attribute a cast member's particular score for an episode with proportional number of sketches they appeared in a particular episode. For example, if Chevy Chase appeared in 7 out of 13 sketches in the first episode, his rating of that episode would be 7/13 of the score of that episode.</p>
+
+            <p>Using that metric, here are the top 17 cast members of all time.</p>
+
+            <p>Or the <em>dream team</em> if you will:</p>
+
+            <table id="rank-table">
+                <tr>
+                    <th>Rank</th>
+                    <th>Cast Member</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Bill Murray</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Phil Hartman</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Kristen Wiig</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Taran Killam</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Bill Hader</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Beck Bennett</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Cecily Strong</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Dan Aykroyd</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Joe Piscopo</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Jane Curtin</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>Michael McKean</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>Gilda Radner</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>Will Ferrell</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>Amy Poehler</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>Janeane Garofalo</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>Charles Rocket</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>Kate McKinnon</td>
+                </tr>
+            </table>
+
+            <p>I think Kenan Thompson should be on the list but I guess if the data says he shouldn't then it must be true.</p>
+
+            <p>And if you're curious about the rank of your favourite cast member, you can search it up here:</p>
 
             <div id="card-container">
                 <div class="card">
@@ -68,16 +160,12 @@
                     </div>
                 </div>
             </div>
-
-
-
-        
         </div>
         
         
         <div class="footer">
             <div class="content">
-                <p>You can find the code for this template <a href="https://github.com/jsoma/page-templates/blob/main/story.html">here</a>. Delete these lines when you use it, and don't forget to change the <code>title</code> tag!!!</p>
+                <p>You can find the code for this project <a href="https://github.com/dlaiu/snl-dream-team" target="_blank">here.</a></p>
             </div>
         </div>
 
